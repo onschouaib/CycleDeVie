@@ -8,6 +8,7 @@ import android.util.Log;
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "tag";
+    private String s;
 
 
     @Override
